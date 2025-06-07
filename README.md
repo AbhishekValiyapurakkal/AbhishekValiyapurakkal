@@ -34,7 +34,7 @@ Built using Flutter & Firebase
 
 - **Languages:** Dart, C  
 - **Frameworks:** Flutter  
-- **Tools:** Git, GitHub, Firebase, AWS EC2  
+- **Tools:** Git, GitHub, Firebase, AWS EC2, Claude, Cursor AI.  
 - **Focus Areas:** UI/UX, Android/iOS, Flutter Web, Clean Code, Debugging
 
 ---
